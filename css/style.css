@@ -1,0 +1,44 @@
+.header{
+  background: gray;
+  color: white;
+  text-align: left;
+  padding: 10px;
+}
+.menu{
+  background: black;
+  padding: 20px;
+}
+.banner{   
+  margin-top: 20px;
+  background: ghostwhite;
+  padding: 80px;
+  border: 2px solid black;
+}
+.noticia{
+  padding: 5px;
+}
+.noticia h2{
+  font-weight: bold;
+}
+.noticia:hover{
+  background: #eee;
+}
+.side{
+  margin: 10px;  
+  background: lightgray;
+  border-radius: 10px;
+  padding: 50px;
+  border: 2px solid black;
+}
+sidebar h3{
+  font-weight: bold;
+}
+.side:hover{ 
+  background: white;
+}
+.footer{
+  padding: 20px;
+  background: black;
+  color: white;
+  text-align: center;
+}
